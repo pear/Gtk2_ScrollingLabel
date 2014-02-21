@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "anant@php.net",
+            "name": "Anant Narayanan",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "description": "More info available on: http://pear.php.net/package/Gtk2_ScrollingLabel",
+    "license": "LGPL Version 2.1",
+    "name": "pear/gtk2_scrollinglabel",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Gtk2_ScrollingLabel",
+        "source": "https://github.com/pear/Gtk2_ScrollingLabel"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
